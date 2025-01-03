@@ -1,0 +1,78 @@
+:root {
+    --background-default : #F5F4F0;
+    --border-primary : #D9D9D9;
+
+    --text-primary : #1B1B1B;
+    --text-secondary : #333333;
+    --text-tertiary : #696969;
+    --text-headline : #E1624F;
+
+    --accent-blue : #0C51A7;
+    --accent-orange : #E95E10;
+    --accent-pink : #E5245E;
+    --accent-purple : #591B98;
+
+}
+
+body {
+    background: var(--background-default);
+    box-sizing: border-box;
+    width: min-content;
+    margin: auto;
+}
+h1, h2, h3, p {
+    font-family: "open-Sans", serif;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 28px;
+    color: var(--accent-pink);
+}
+
+img {
+    border-radius: 28px;
+}
+
+ol > li {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+ul li::marker {
+    color: black; 
+}
+
+ul > li {
+    color: var(--accent-purple);
+}
+
+ul > li + li {
+    color: var(--accent-pink);
+}
+
+ul > li + li + li{
+    color: var(--accent-orange);
+}
+
+footer{
+    color: var(--text-primary);
+    text-align: center;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+footer img{
+    vertical-align: middle;
+}
