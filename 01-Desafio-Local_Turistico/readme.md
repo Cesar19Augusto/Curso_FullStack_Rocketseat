@@ -8,4 +8,4 @@
 
 <!--CSS-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3_logo" width="40" heigh
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3_logo" width="40" height="40"/>  </a>
