@@ -59,7 +59,8 @@ section header {
 #weekly {
 
     &>div {
-        grid-template-columns: repeat(4 292px);
+        grid-template-columns: repeat(4, 292px);
+        gap:16px;
     }
 
     img {
