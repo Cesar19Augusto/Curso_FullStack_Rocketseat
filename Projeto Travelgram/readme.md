@@ -3,7 +3,7 @@ Travelgram - https://www.figma.com/design/jhnK9scYksI0ZeyJi1IscM/Perfil-de-viage
 
 Esse projeto, referente ao curso FullStack da Rocketseat, foi um projetinho basico para praticar html e css, e foi interessante para ver uma outra forma de organizar o codigo css.
 
-<h2>Foi trabalhado no decorrer desse Projeto/h2>
+<h2>Foi trabalhado no decorrer desse Projeto</h2>
 <!--HTML-->
   <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html_logo" width="40" height="40"/>  </a>
