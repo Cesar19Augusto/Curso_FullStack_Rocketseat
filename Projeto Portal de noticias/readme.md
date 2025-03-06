@@ -1,5 +1,5 @@
 # Projeto Portal de Noticias
-figma - https://www.figma.com/design/jhnK9scYksI0ZeyJi1IscM/Perfil-de-viagens-(Community)?node-id=3-811&t=AX8QcP50TRcd9KOj-0
+figma - https://www.figma.com/design/ITyKw4TooVTR6Nhxkh8kx0/Portal-de-not%C3%ADcias-(Community)?node-id=3-811&t=tUJZF1n5oQpl8IBM-0
 
 Esse projeto, referente ao curso FullStack da Rocketseat, voltado a praticar html e css, e foi interessante aprimorar conceitos estabelecidos em aula como o display grid ao invés do display flex.
 
