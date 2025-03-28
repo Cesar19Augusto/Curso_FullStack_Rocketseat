@@ -1,7 +1,7 @@
 # Curso_FullStack_Rocketseat
 
 -Aqui esta listado as tecnologias utilizadas nesse codigo
-
+![alt text](./img/Convertido.png)
 <h2>Foi trabalhado no decorrer desse projeto</h2>
 <!--JavaScript-->
 <p align="left">
@@ -10,3 +10,4 @@
   <!--ExchangeRateAPI-->
 <p align="left">
 <a href="https://www.exchangerate-api.com/">  <img src="https://www.exchangerate-api.com/img/hr-logo-2022-ldpi-rc.png" alt="html_logo" width="40" height="40"/>  </a>
+
