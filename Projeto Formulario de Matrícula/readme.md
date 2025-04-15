@@ -4,7 +4,7 @@
 [Ilana Mallak]: https://www.linkedin.com/in/ilanamallak/
 [Rocketseat]: https://www.rocketseat.com.br/
 
-<h1 align="center" style="font-weight: bold;">Curso_FullStack_Rocketseat 💻</h1>
+<h1 align="center" style="font-weight: bold;">Estrela da manhã ✨</h1>
 
 <p align="center">
  • <a href="#tech">Technologies</a> • 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <b>This repository contains all the codes created during the Full Stack course at Rocketseat, demonstrating some of the knowledge acquired, each folder referring to its own project for the purpose of organization.</b>
+    <b>This repository contains the codes created for studies and practice in this stage of the Full Stack course at Rocketseat, demonstrating some of the knowledge acquired.</b>
 </p>
 <!--
 <p align="center">
