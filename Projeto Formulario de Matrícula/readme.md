@@ -31,11 +31,10 @@
 
 ![HTML5][HTML5__BADGE]
 ![CSS3][CSS3__BADGE]
-![Rocketseat][Rocketseat]
 
 <h2 id="started">🚀 Getting started</h2>
 
-This layout is related to ![figma][figma] made by ![Ilana Mallak][Ilana Mallak] and patented by ![Rocketseat][Rocketseat] used in the Full Stack course
+This layout is related to [figma] made by [Ilana Mallak] and patented by [Rocketseat] used in the Full Stack course
 
 <h3>Cloning</h3>
 
