@@ -15,11 +15,11 @@
 <p align="center">
     <b>This repository contains all the codes created during the Full Stack course at Rocketseat, demonstrating some of the knowledge acquired, each folder referring to its own project for the purpose of organization.</b>
 </p>
-
+<!--
 <p align="center">
      <a href="">📱 Visit this Project</a>
 </p>
-
+-->
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
