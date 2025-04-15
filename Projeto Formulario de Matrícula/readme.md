@@ -31,6 +31,7 @@
 
 ![HTML5][HTML5__BADGE]
 ![CSS3][CSS3__BADGE]
+![Rocketseat][Rocketseat]
 
 <h2 id="started">🚀 Getting started</h2>
 
