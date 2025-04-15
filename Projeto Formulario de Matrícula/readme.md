@@ -23,8 +23,8 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="/Assets/readme_img/1view.png" alt="Image Example" width="400px">
-    <img src="/Assets/readme_img/2view.png" alt="Image Example" width="400px">
+    <img src="./Assets/readme_img/1view.png" alt="Image Example" width="400px">
+    <img src="./Assets/readme_img/2view.png" alt="Image Example" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
